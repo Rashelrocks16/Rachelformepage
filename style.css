@@ -1,0 +1,36 @@
+.Calgary {
+    margin: 0%;
+    background: url(Calgary.jpg);
+    background-size: 100vw;
+    background-image: url(Calgary.jpg);
+    height: 300px;
+}
+.Victoria{
+    margin: 0%;
+    background: url(victoria.jpg);
+    background-size: 100vw;
+    background-image: url(victoria.jpg);
+    height: 300px;
+}
+.Seattle{
+    margin: 0%;
+    background: url(Seattle.jpg);
+    background-size: 100vw;
+    background-image: url(Seattle.jpg);
+    height: 300px;
+}
+.ONP{
+    margin: 0%;
+    background: url(ONP.jpg);
+    background-size: 100vw;
+    background-image: url(ONP.jpg);
+    height: 300px;
+}
+.Bozeman{
+    margin: 0%;
+    background: url(Bozeman.jpg);
+    background-size: 100vw;
+    background-image: url(Bozeman.jpg);
+    height: 300px;
+}
+
